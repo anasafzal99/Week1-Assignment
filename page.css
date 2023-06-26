@@ -1,0 +1,53 @@
+.harry,
+.jessica {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+span {
+  padding-top: 10 0px;
+  vertical-align: middle;
+  text-align: center;
+}
+h2,
+p,
+h3,
+li,
+img {
+  margin-left: 20px;
+}
+h2,
+h3 {
+  background-color: #bcbcbc;
+}
+h2 {
+  font-size: 50px;
+}
+.subheading {
+  font-size: 25px;
+}
+h1 {
+  align-items: center;
+  margin-left: 50%;
+  font-size: 60px;
+  text-shadow: 2px 2px 0 #bcbcbc, 4px 4px 0 #9c9c9c;
+}
+.lists {
+  display: flex;
+  width: fit-content;
+  background-color: black;
+  height: 50px;
+  padding-top: 25px;
+  padding-left: 15px;
+  padding-right: 25px;
+  border-radius: 8px;
+  margin-left: 20px;
+}
+.lists li a {
+  text-decoration: none;
+  color: white;
+}
+
+.lists li a:hover {
+  font-size: 20px;
+  background-color: gray;
+}
