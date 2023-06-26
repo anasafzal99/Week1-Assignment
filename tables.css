@@ -1,0 +1,13 @@
+.header {
+  background-color: #6a96b9;
+  width: fit-content;
+}
+.table-head {
+  background-color: rgb(236, 236, 236);
+  width: fit-content;
+  border-radius: 7px;
+  color: #6a96b9;
+}
+.table-head2 {
+  color: #6a96b9;
+}
