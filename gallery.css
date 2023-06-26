@@ -1,0 +1,82 @@
+.Grid {
+  width: 100%;
+  height: 400px;
+  background-color: yellow;
+  display: flex;
+}
+.Column1 {
+  width: 30%;
+  height: 100%;
+  background-color: blue;
+}
+.Column2 {
+  width: 70%;
+  height: 100%;
+  background-color: red;
+  display: flex;
+}
+.Column11 {
+  width: 100%;
+  height: 50%;
+  background-color: blueviolet;
+}
+.Column11 img,
+.Column12 img,
+.Column21 img,
+.Column22 img,
+.width23 img,
+.width24 img,
+.width25 img,
+.width26 img,
+.Column23 img {
+  width: 100%;
+  height: 100%;
+  border: 1px solid black;
+}
+.Column12 {
+  width: 100%;
+  height: 50%;
+  background-color: green;
+}
+.Column21 {
+  width: 35%;
+  height: 100%;
+  background-color: aqua;
+}
+.Column22 {
+  width: 25%;
+  height: 100%;
+  background-color: black;
+}
+.Column23 {
+  width: 40%;
+  height: 100%;
+}
+
+.Grid1 {
+  width: 100%;
+  height: 300px;
+  background-color: black;
+  display: flex;
+}
+.width23 {
+  width: 30%;
+  height: 100%;
+  background-color: brown;
+}
+
+.width24 {
+  width: 20%;
+  height: 100%;
+  background-color: rgb(149, 235, 235);
+}
+.width25 {
+  width: 30%;
+  height: 100%;
+  background-color: rgb(46, 4, 48);
+}
+.width26 {
+  width: 20%;
+  height: 100%;
+  background-color: rgb(112, 60, 233);
+}
